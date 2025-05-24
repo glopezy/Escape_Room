@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 627943dc7a9a74286b70a4f694a0acd5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19601
+  packageName: Retro Lamps v.1
+  packageVersion: 1.1
+  assetPath: Assets/HorrorEnvironment_AbandonedManor/Standard Assets/Image Effects
+    (Pro Only)/_Sources/Shaders/VignettingShader.shader
+  uploadId: 38846

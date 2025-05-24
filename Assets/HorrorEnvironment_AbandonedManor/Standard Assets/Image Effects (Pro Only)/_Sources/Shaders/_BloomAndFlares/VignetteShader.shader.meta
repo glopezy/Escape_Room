@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 562f620336e024ac99992ff05725a89a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19601
+  packageName: Retro Lamps v.1
+  packageVersion: 1.1
+  assetPath: Assets/HorrorEnvironment_AbandonedManor/Standard Assets/Image Effects
+    (Pro Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+  uploadId: 38846

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 43ca18288c424f645aaa1e9e07f04c50
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19601
+  packageName: Retro Lamps v.1
+  packageVersion: 1.1
+  assetPath: Assets/HorrorEnvironment_AbandonedManor/Standard Assets/Image Effects
+    (Pro Only)/_Sources/Shaders/SSAOShader.shader
+  uploadId: 38846

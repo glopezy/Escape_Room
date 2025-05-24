@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f7898d203e9b94c0dbe2bf9dd5cb32c0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19601
+  packageName: Retro Lamps v.1
+  packageVersion: 1.1
+  assetPath: Assets/HorrorEnvironment_AbandonedManor/Standard Assets/Image Effects
+    (Pro Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+  uploadId: 38846
